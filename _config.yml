@@ -47,6 +47,8 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5" #añadido para cambiar el tema
+
 feed:
   path: atom.xml
 
